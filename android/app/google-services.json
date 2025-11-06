@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667890756731",
+    "project_id": "absenku-a9004",
+    "storage_bucket": "absenku-a9004.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667890756731:android:83d8dcf18267bff06c46de",
+        "android_client_info": {
+          "package_name": "com.example.absenku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy89bS6hP4aR_Ug0Qo1FaWyv88jrKFTx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
