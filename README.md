@@ -1,16 +1,21 @@
-# absenku
+# 📲 E-Absensi (Flutter + Firebase)
 
-A new Flutter project.
+**E-Absensi** is a mobile attendance application built using **Flutter** with **Firebase Authentication**, **Cloud Firestore**, and **Cloudinary** integration.  
+The app allows users to mark attendance, view logs, and manage data — all without a traditional backend (fully Firebase-based).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🔐 User authentication with Firebase
+- 📅 Record daily attendance
+- ☁️ Store user data and photos in Firebase + Cloudinary
+- 📴 Works offline and syncs when reconnected
+- 🧭 Simple, clean, and responsive UI built with Flutter widgets
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- **Flutter (Dart)**
+- **Firebase Authentication & Firestore**
+- **Cloudinary (for image storage)**
+- **Provider / GetX** (for state management, if used)
